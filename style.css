@@ -1,0 +1,40 @@
+body
+{
+background-color: #5d79a6;
+}
+
+
+#container
+{
+	width: 1000px;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#title
+{
+	background-color: #495f82;
+	border: 10px;
+	width: 980px;
+	height: 95px;
+	text-align: center;
+	color: black;
+}
+
+.buttonBlock
+{
+	float: left;
+	background-color: #5da67f;
+	margin: 10px;
+	width: 470px;
+	height: 230px;
+	text-align: center;
+
+}
+
+.buttonBlock:hover
+{
+	background-color: #74cf9e;
+	cursor: pointer;
+}
