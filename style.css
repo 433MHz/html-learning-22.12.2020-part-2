@@ -1,6 +1,7 @@
 body
 {
 background-color: #5d79a6;
+font-size: 50px;
 }
 
 
@@ -17,9 +18,11 @@ background-color: #5d79a6;
 	background-color: #495f82;
 	border: 10px;
 	width: 980px;
-	height: 95px;
+	height: 50px;
 	text-align: center;
 	color: black;
+	padding-top: 22.5px;
+	padding-bottom: 22.5px;
 }
 
 .buttonBlock
@@ -28,8 +31,10 @@ background-color: #5d79a6;
 	background-color: #5da67f;
 	margin: 10px;
 	width: 470px;
-	height: 230px;
+	height: 50px;
 	text-align: center;
+	padding-bottom: 90px;
+	padding-top: 90px;
 
 }
 
