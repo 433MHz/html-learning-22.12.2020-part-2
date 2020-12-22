@@ -1,0 +1,10 @@
+RewriteEngine on
+
+
+DirectoryIndex index.html
+
+RewriteRule strona-glowna index.html
+RewriteRule strona-button1 button1.html
+RewriteRule strona-button2 button2.html
+RewriteRule strona-button3 button3.html
+RewriteRule strona-button4 button4.html

@@ -43,3 +43,9 @@ font-size: 50px;
 	background-color: #74cf9e;
 	cursor: pointer;
 }
+
+.buttonsLinks
+{
+	color: black;
+	text-decoration: none;
+}
